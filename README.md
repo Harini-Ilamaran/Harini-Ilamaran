@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2a4bdbcd-8a8f-4617-aec9-91ac4e34ca44" /><p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Harini-Ilamaran/profile-assets/main/banner.png" alt="Harini Banner" width="100%">
 </p>
 
@@ -25,12 +25,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,html,css,js,idea,vscode"/>
 </p>
-
----
-
-**Tech Stack**
-
-Java • Spring Boot • Hibernate • MySQL • REST APIs • HTML • CSS • JavaScript
 
 ---
 
