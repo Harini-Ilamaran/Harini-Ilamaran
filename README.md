@@ -22,8 +22,6 @@ Passionate about building scalable backend applications and modern web applicati
 
 🌱 Currently learning Advanced Spring Boot
 
-🏎️ Formula 1 Enthusiast
-
 📍 Chennai, India
 
 ---
