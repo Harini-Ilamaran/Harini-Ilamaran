@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/Harini-Ilamaran/profile-assets/main/banner.png" alt="Harini Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Harini Ilamaran</h1>
-
-<h3 align="center">
-Full-Stack Java Developer | Spring Boot | REST APIs | MySQL
-</h3>
-
 <p align="center">
 Passionate about building scalable backend applications and modern web applications using Java and Spring Boot.
 </p>
